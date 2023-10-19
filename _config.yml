@@ -5,7 +5,7 @@ url: https://zhengdi0423.github.io
 avatar: /picture.jpg
 paginate: 5
 permalink: pretty
-cover_image: /bg.jpeg
+cover_image: /bg.jpg
 
 # Gems
 plugins:
